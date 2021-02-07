@@ -33,6 +33,7 @@ public class Course_Checking_System {
         System.out.println("Course: " + Course_Name);
         System.out.println("Quiz: " + Quiz_Grade + "/ 25");
         System.out.println("Assignment: " + Assignment_Grade + "/ 25");
+        System.out.println("Thank you for using this software");
         System.out.println("Final: " + FinalExam_Grade + "/ 25");
         System.out.println("Project: " + Project_Grade + "/ 25");
         
